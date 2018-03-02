@@ -1,0 +1,12 @@
+Close Browser: NumPad0
+Mouse Up: = NumPad8
+Mouse Down: = NumPad2
+Mouse Left: = NumPad4
+Mouse Right: = NumPad6
+Mouse UpLeft: = NumPad7
+Mouse UpRight: = NumPad9
+Mouse DownLeft: = NumPad1
+Mouse DownRight: = NumPad3
+Mouse Click: = NumPad5
+Mouse DoubleClick: = Add
+Map keys = Decimal
